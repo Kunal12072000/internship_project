@@ -1,1 +1,4 @@
-this is my internship project
+This is my internship project
+
+In this i have made a resume screening model from scratch in which it uses the k-mean clustering algorithm in order to find the similarties in resumes 
+and classify then in different groups
